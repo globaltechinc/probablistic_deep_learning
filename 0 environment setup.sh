@@ -9,6 +9,8 @@ pip install seaborn
 pip install notebook==6.4.5
 pip install xgboost==2.1.1
 pip install tensorflow==2.6.1
+pip install --upgrade numpy==1.23.*
+pip install --upgrade protobuf==3.20.*
 pip install git+http://github.com/nikitadurasov/masksembles
 
 
